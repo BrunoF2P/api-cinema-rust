@@ -1,0 +1,11 @@
+[package]
+name = "api-cinema-rust"
+version = "0.1.0"
+edition = "2021"
+author = ["BrunoF2P <brunobispof2p@gmail.com>"]
+readme = "README.md"
+repository = "https://github.com/BrunoF2P/api-cinema-rust"
+license = "MIT OR Apache-2.0"
+
+
+[dependencies]

@@ -1,0 +1,38 @@
+# Arquivos e diretórios de compilação
+/target/
+
+# Arquivos temporários
+**/*.rs.bk
+
+# Arquivos do Cargo
+/cargo-lock/
+/cargo.toml.orig
+/cargo.toml.backup
+
+# Arquivos de configuração do IDE
+.idea/
+/.vscode/
+/*.sublime-workspace
+/*.sublime-project
+
+# Arquivos de cache do Rust
+**/*.rs~ 
+
+# Arquivos de configuração do editor
+.vscode/
+
+# Arquivos de backup gerados pelo editor
+*~
+
+# Pasta de dependências locais
+**/target/
+
+# Arquivos específicos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de configuração do Git
+*.gitmodules
+
+# Configurações do Rust Analyzer
+.rust-analyzer.json
